@@ -1,0 +1,11 @@
+pandas
+yfinance
+scipy
+seaborn
+matplotlib
+numpy
+statsmodels
+scikit-learn
+warnings
+Jinja2
+PyPortfolioOpt
